@@ -1,5 +1,7 @@
 # 政务 API 安全运营 Agent Demo
 
+项目实施与后续计划见 [ROADMAP.md](ROADMAP.md)。
+
 个人学习用本地 Demo，当前实现以下阶段：
 
 1. 项目骨架、配置文件和启动说明。
